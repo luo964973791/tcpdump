@@ -10,4 +10,4 @@ RST: 重置连接
 URG: 紧急标志位
 ```
 tcpdump -nn -i eth0 port 2181 and host 172.27.0.3 -vvv
-![](./image/1.jpg)
+![](./image/1.png)
